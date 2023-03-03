@@ -31,10 +31,10 @@ Run Android Studio and some Android emulator (Used and tested on Emulator Phone:
 
 **Step 4:**
 
-Run the project (better with '--no-sound-null-safety'):
+Run the project:
 
 ```
-flutter run --no-sound-null-safety
+flutter run
 ```
 
 - The app can be used by iPhone and Android users
